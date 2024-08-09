@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "components"
+version = "0.1.0"
+description = ""
+authors = ["Alek Petuskey"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+reflex = "^0.5.9"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
