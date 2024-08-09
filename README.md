@@ -1,6 +1,9 @@
-# Recommend Setup to develop locally
+# Shared Component System For Reflex App.
 
-Go to components create a folder examples clone the projects you want in there. 
+
+### Local Development
+
+Go to components create a folder of examples clone the projects you want in there. 
 
 Import files like so, and use.
 
@@ -8,7 +11,7 @@ Import files like so, and use.
 import components.buttons.feedback.feedback as feedback
 ```
 
-### To use in the project 
+### To Use in Production
 
 ```python 
 reflex-core-components @ git@github.com:reflex-dev@main
