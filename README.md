@@ -1,6 +1,6 @@
 # Recommend Setup to develop locally
 
-### Go to components create a folder examples clone the projects you want in there. 
+Go to components create a folder examples clone the projects you want in there. 
 
 Import files like so, and use.
 
